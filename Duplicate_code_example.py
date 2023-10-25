@@ -15,7 +15,7 @@ def calculate_volume(length, width, height):
 
 
 def calculate_surface_area(length, width, height):
-    surface_area = 2 * (calculate_area(length, width) + calculate_area(length, height) + calculate_area(height, width))
+    surface_area = 2 * (length * width + length, height + height, width)
     return surface_area
 
 

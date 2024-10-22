@@ -1,4 +1,4 @@
-#Code Smells Example for long method
+sasads#Code Smells Example for long method
 def calculate_total_price(items):
     return sum(calculate_item_price(item) for item in items)
 
